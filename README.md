@@ -1,3 +1,4 @@
+<img width="1906" height="970" alt="Streamlite image for prediction" src="https://github.com/user-attachments/assets/e9920958-2ef8-40a3-a3cc-9db6f8c354f4" />
 # Diabetes Prediction using Logistic Regression
 
 A machine learning classification project that uses **Logistic Regression** to predict whether a person is likely to have diabetes based on medical and demographic features.
